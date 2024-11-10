@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@dynasty/core": "Dynasty-Team/core-swap",
-    "@dynasty/lib": "2.0.8"
+    "@dynasty/lib": "Dynasty-Team/lib-swap"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
